@@ -1,4 +1,7 @@
 # Actividad 1
+
+<image src="/img/kernel.png" alt="iamgen kernel">
+
 ## Tipos de kernel y sus diferencias
 Los kernel se pueden clasificar en dos grandes grupos: monolíticos y modulares.
 
