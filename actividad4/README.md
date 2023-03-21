@@ -33,13 +33,13 @@ Contenido del archivo actividad4.service
 
     [Service]
     Type=simple
-    ExecStart=/home/esteban/GitHub/SO1_Actividades_200517708/Actividad4/code/actividad4.sh
+    ExecStart=/home/Actividad4/actividad4.sh
 
     [Install]
     WantedBy=multi-user.target  
 
 4. Luego debemos recargar los servicios con el comando
-
+    
         sudo systemctl daemon-reload
 
 5. Iniciar el servicio con el comando:
